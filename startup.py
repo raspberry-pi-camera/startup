@@ -6,7 +6,7 @@ import os
 from pathlib import Path
 import sys
 
-version = 1.0
+version = 1.0.0
 
 if len(sys.argv) > 1:
     if sys.argv[1] == "-v":
